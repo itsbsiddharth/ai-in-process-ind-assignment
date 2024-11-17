@@ -1,1 +1,1 @@
-# ai-in-process-ind-assignment
+# ai-in-process-assignment
